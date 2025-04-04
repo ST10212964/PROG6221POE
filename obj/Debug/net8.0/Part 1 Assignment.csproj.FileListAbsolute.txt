@@ -1,0 +1,14 @@
+C:\Users\prime\Desktop\2025\PROG\Part 1 Assignment\bin\Debug\net8.0\Part 1 Assignment.exe
+C:\Users\prime\Desktop\2025\PROG\Part 1 Assignment\bin\Debug\net8.0\Part 1 Assignment.deps.json
+C:\Users\prime\Desktop\2025\PROG\Part 1 Assignment\bin\Debug\net8.0\Part 1 Assignment.runtimeconfig.json
+C:\Users\prime\Desktop\2025\PROG\Part 1 Assignment\bin\Debug\net8.0\Part 1 Assignment.dll
+C:\Users\prime\Desktop\2025\PROG\Part 1 Assignment\bin\Debug\net8.0\Part 1 Assignment.pdb
+C:\Users\prime\Desktop\2025\PROG\Part 1 Assignment\obj\Debug\net8.0\Part 1 Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prime\Desktop\2025\PROG\Part 1 Assignment\obj\Debug\net8.0\Part 1 Assignment.AssemblyInfoInputs.cache
+C:\Users\prime\Desktop\2025\PROG\Part 1 Assignment\obj\Debug\net8.0\Part 1 Assignment.AssemblyInfo.cs
+C:\Users\prime\Desktop\2025\PROG\Part 1 Assignment\obj\Debug\net8.0\Part 1 Assignment.csproj.CoreCompileInputs.cache
+C:\Users\prime\Desktop\2025\PROG\Part 1 Assignment\obj\Debug\net8.0\Part 1 Assignment.dll
+C:\Users\prime\Desktop\2025\PROG\Part 1 Assignment\obj\Debug\net8.0\refint\Part 1 Assignment.dll
+C:\Users\prime\Desktop\2025\PROG\Part 1 Assignment\obj\Debug\net8.0\Part 1 Assignment.pdb
+C:\Users\prime\Desktop\2025\PROG\Part 1 Assignment\obj\Debug\net8.0\Part 1 Assignment.genruntimeconfig.cache
+C:\Users\prime\Desktop\2025\PROG\Part 1 Assignment\obj\Debug\net8.0\ref\Part 1 Assignment.dll
